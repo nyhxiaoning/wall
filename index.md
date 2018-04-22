@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# 一个一个模仿QQ留言墙的设计
 
-You can use the [editor on GitHub](https://github.com/nyhxiaoning/wall/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* 我的个人网站主页是nyhxiaoning.github.io *
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 项目技术描述
+- 对于h5和css3新加功能的运用，例如有拖拽和随机数种子的设计
 
-### Markdown
+## 编辑器 
+- 使用submit webstorm vscode atom
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 项目功能
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nyhxiaoning/wall/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 个人对于不同的留言进行不同的颜色展示，还可以将这些留言存入数据库，并且从数据库中查看，留下一些好的文字回忆
